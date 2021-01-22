@@ -1,4 +1,4 @@
-def Song 
+def Author
   
   attr_accessor :name
   
